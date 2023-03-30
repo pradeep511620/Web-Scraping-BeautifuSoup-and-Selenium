@@ -1,0 +1,46 @@
+E-13
+   11        5.5      2.500        2.315      2050B11         B         5⁄8         13⁄16        13⁄4H     1        0.62        –              –                –            –    12        6.0      2.710        2.500      2050B12         B         
+5⁄8         1           163⁄64     1        0.80        –              –                –            –    13        6.5      2.910        2.690      2050B13         B         
+5⁄8         17⁄32       123⁄32     1        0.82        –              –                –            –    14        7.0      3.110        2.881      2050B14         B         
+5⁄8         19⁄32       115⁄16     1        1.00        –              –                –            –
+   15        7.5      3.320        3.073      2050B15         B         5⁄8         113⁄32      25⁄32      1        1.22        –              –                –            –    16        8.0      3.520        3.266      2050B16         B         
+5⁄8         119⁄32      223⁄64     1        1.44        –              –                –            –    17        8.5      3.720        3.460      2050B17         B         
+5⁄8         13⁄4        29⁄16      1        1.68        –              –                –            –    18        9.0      3.920        3.655      2050B18         B         
+5⁄8         125⁄32      225⁄32     1        1.94        –              –                –            –
+   19        9.5      4.120        3.850      2050B19         B         5⁄8         131⁄32      263⁄64     1        2.24        –              –                –            –    20      10.0      4.320        4.045      2050B20         B         
+3⁄4         2           3           1        2.30        –              –                –            –    21      10.5      4.520        4.241      2050B21         B         
+3⁄4         2           3           1        2.40        –              –                –            –    22      11.0      4.720        4.437      2050B22         B         
+3⁄4         2           3           1        2.54        –              –                –            –
+   23      11.5      4.920        4.633      2050B23         B         3⁄4         2           3           1        2.66        –              –                –            –    24      12.0      5.120        4.830      2050B24         B         
+3⁄4         2           3           11⁄4     3.30        A        2050A24        23⁄32       1.58    25      12.5      5.320        5.026      2050B25         B         
+3⁄4         2           3           11⁄4     3.42        A        2050A25        23⁄32       1.68    26      13.0      5.520        5.223      2050B26         B         
+3⁄4         2           3           11⁄4     3.62        A        2050A26        23⁄32       1.88
+   28      14.0      5.920        5.617      2050B28         B         3⁄4         2           3           11⁄4     3.78        A        2050A28        23⁄32       2.22    30      15.0      6.320        6.012      2050B30         B         
+3⁄4         21⁄4        31⁄4       11⁄4     4.58        A        2050A30        23⁄32       2.54     No.                                                                                                              Bore                      Hub    Teeth                                                                                                                                                                 Wt.                                                                 Wt.   Actual    Eff. No.    Outside        Pitch             Catalog                                        Rec.                   Length       Lbs.                      Catalog           Stock         Lbs.                    Teeth     Diameter   Diameter         Number        Type     Stock        Max.       Dia.  Thru Bore (Approx.)   Type       Number           Bore      (Approx.)Double PitchAll Steel Stock Sprockets
+E-1311⁄4-Inch Double-Pitch
+      8           3.770       3.266        2052B8              B          5⁄8         119⁄32     223⁄64     1         1.38       –                 –                 –            –      9           4.190       3.655        2052B9              B          
+5⁄8         125⁄32     225⁄32     1         1.92       –                 –                 –            –     10          4.600       4.045        2052B10            B          
+5⁄8         2          3           1         2.30       –                 –                 –            –     11          5.010       4.437        2052B11            B          
+5⁄8         2          3           1         2.54       –                 –                 –            –
+    12          5.420       4.830        2052B12            B          3⁄4         2          3           11⁄4      3.20       A          2052A12         23⁄32       1.58     13          5.820       5.223        2052B13            B          
+3⁄4         2          3           11⁄4      3.48       A          2052A13         23⁄32       1.82     14          6.230       5.617        2052B14            B          
+3⁄4         2          3           11⁄4      3.88       A          2052A14         23⁄32       2.28     15          6.630       6.012        2052B15            B          
+3⁄4         21⁄4       31⁄4       11⁄4      4.46       A          2052A15         23⁄32       2.46
+    16          7.030       6.407        2052B16            B          3⁄4         21⁄4       31⁄4       11⁄4      4.80       A          2052A16         23⁄32       2.88     17          7.440       6.803        2052B17            B          
+3⁄4         21⁄4       31⁄4       11⁄4      5.34       A          2052A17         23⁄32       3.28     18          7.840       7.198        2052B18            B          
+3⁄4         21⁄4       31⁄4       11⁄4      5.64       A          2052A18         23⁄32       3.64     19          8.240       7.595        2052B19            B          
+3⁄4         21⁄4       31⁄4       11⁄4      6.04       A          2052A19         23⁄32       4.12
+    20          8.640       7.991        2052B20            B          3⁄4         21⁄4       31⁄4       11⁄4      6.48       A          2052A20         23⁄32       4.72     21          9.040       8.387        2052B21            B          
+3⁄4         21⁄4       31⁄4       11⁄4      7.00       A          2052A21         23⁄32       5.08     22          9.440       8.783        2052B22            B          
+3⁄4         21⁄4       31⁄4       11⁄4      7.30       A          2052A22         23⁄32       5.20     23          9.850       9.180        2052B23            B          1          2
+3⁄4       33⁄4       11⁄4      8.66       A          2052A23         15⁄16       5.84
+    24        10.250       9.577        2052B24            B         15⁄16        23⁄4       33⁄4       11⁄4      9.32       A          2052A24         15⁄16       6.70     25        10.650       9.973        2052B25            B         
+15⁄16        23⁄4       33⁄4       11⁄4    10.30       A          2052A25         15⁄16       7.54     26        11.050      10.370       2052B26            B         
+15⁄16        23⁄4       33⁄4       11⁄4    11.00       A          2052A26         15⁄16       8.24     28        11.840      11.164       2052B28            B         
+15⁄16        23⁄4       33⁄4       11⁄4    11.70       A          2052A28         15⁄16       8.70
+    30        12.640      11.958       2052B30            B         15⁄16        23⁄4       33⁄4       11⁄4    12.90       A          2052A30         15⁄16       9.92       No.                                                                                                      Bore                       Hub      Teeth                                                                                                                                                          Wt.                                                                     Wt.     Actual       Outside         Pitch             Catalog                                           Rec.                     Length       Lbs.                           Catalog           Stock         Lbs.                      Diameter     Diameter         Number             Type      Stock      Max.       Dia.    Thru Bore (Approx. )    Type           Number           Bore      (Approx.)Conveyor Series — Carrier RollerDouble Pitch — 2052/C2052Conveyor or Drive Series — Standard RollerDouble Pitch — 2050/C2050
+HHas recessed groove in hub for chain clearance. Maximum bores shown will accommodate standard keyseat and setscrew over keyseat. Slightly larger bores are possible with no keyseat, shallow keyseat, or setscrew at angle to keyseat.TYPE A
+TYPE B.343"Nominal
+.343"NominalLengthThruBoreO.D.
+O.D. Hub.Dia.HHas recessed groove in hub for chain clearance.Double Pitch
+All Steel Stock Sprockets

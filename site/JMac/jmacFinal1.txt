@@ -1,0 +1,5 @@
+
+https://www.jmac.com/Altronix_6062_p/altronix-6062.htm	Altronix 6062 Multi-Purpose Timer Module	ALTRONIX-6062	27.78	https://s3.us-east-2.amazonaws.com/jmacimg/ALTRONIX-6062-2T.jpg	Home > Altronix > Circuit Boards > Timer Modules
+https://www.jmac.com/Altronix_AT4_p/altronix-at4.htm	Altronix AT4 365 Day 24 Hr 4 Channel Annual Event Timer	ALTRONIX-AT4	211.89	https://s3.us-east-2.amazonaws.com/jmacimg/ALTRONIX-AT4-2T.jpg	Home > Altronix > Circuit Boards > Timer Modules
+https://www.jmac.com/Altronix_60628HR_p/altronix-60628hr.htm	Altronix 60628HR	ALTRONIX-60628HR	30.75	https://s3.us-east-2.amazonaws.com/jmacimg/ALTRONIX-60628HR-2T.jpg	Home > Altronix > Circuit Boards > Timer Modules
+https://www.jmac.com/Altronix_DSTAT4_p/altronix-dstat4.htm	Altronix DSTAT4	ALTRONIX-DSTAT4	17.25	https://s3.us-east-2.amazonaws.com/jmacimg/ALTRONIX-DSTAT4-2T.jpg	Home > Altronix > Circuit Boards > Timer Modules
